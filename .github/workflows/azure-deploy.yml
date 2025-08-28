@@ -1,0 +1,43 @@
+name: CI/CD - Azure App Service Test
+
+on:
+  push:
+    branches: [develop] # o la rama que uses para test
+  pull_request:
+    branches: [develop]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "9.0.x" # ajusta según tu proyecto
+
+      - name: Restore dependencies
+        run: dotnet restore
+        working-directory: ./Server # si Blazor Server; ajusta si es Hosted
+
+      - name: Build
+        run: dotnet build --configuration Release --no-restore
+        working-directory: ./Server
+
+      - name: Publish
+        run: dotnet publish --configuration Release --no-build --output ./publish
+        working-directory: ./Server
+
+      - name: Login to Azure
+        uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      - name: Deploy to Azure Web App
+        uses: azure/webapps-deploy@v3
+        with:
+          app-name: web-smartplatform-dev # tu App Service de test
+          package: ./Server/publish
