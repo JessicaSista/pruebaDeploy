@@ -13,9 +13,11 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          path: repo # coloca todo el repo dentro de /home/runner/work/<repo>/repo
 
       - name: List repo files
-        run: ls -R # opcional: para verificar estructura en el runner
+        run: ls -R repo # opcional, para verificar estructura
 
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
@@ -24,15 +26,15 @@ jobs:
 
       - name: Restore dependencies
         run: dotnet restore
-        working-directory: Server # ruta relativa desde la raíz del repo
+        working-directory: repo/Server
 
       - name: Build
         run: dotnet build --configuration Release --no-restore
-        working-directory: Server
+        working-directory: repo/Server
 
       - name: Publish
         run: dotnet publish --configuration Release --no-build --output ./publish
-        working-directory: Server
+        working-directory: repo/Server
 
       - name: Login to Azure
         uses: azure/login@v1
@@ -43,4 +45,4 @@ jobs:
         uses: azure/webapps-deploy@v3
         with:
           app-name: web-smartplatform-dev # tu App Service de test
-          package: Server/publish
+          package: repo/Server/publish
