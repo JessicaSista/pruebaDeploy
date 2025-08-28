@@ -1,4 +1,4 @@
-using OmniMonitor.Server.Context;
+using OmniMonitor.Server.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 
@@ -25,7 +25,7 @@ builder.Logging.AddAzureWebAppDiagnostics();
 // Add services to the container.
 builder.Services.AddDbContext<Context>(options =>
 {
-    options.UseSqlServer(configuration.GetConnectionString("ConnectionStrings"));
+    options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"));
 });
 
 // Your existing CORS policy is excellent because it's configurable.
