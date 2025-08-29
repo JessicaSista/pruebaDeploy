@@ -1109,10 +1109,6 @@ C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\De
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\mscorlib.ypkr78tz1c.wasm
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\MudBlazor.eiyoirc8xd.wasm
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\netstandard.ifx8vojh9u.wasm
-C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\OmniMonitor.Client.652xxmhayh.pdb
-C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\OmniMonitor.Client.ozdz1lssns.wasm
-C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\OmniMonitor.Shared.khtggdywge.pdb
-C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\OmniMonitor.Shared.u9vd3lprh2.wasm
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.AppContext.00rm2k4rqj.wasm
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Buffers.z32pttvtk4.wasm
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Collections.Concurrent.rx21q3n11f.wasm
@@ -1367,7 +1363,6 @@ C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\De
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.c5whsk6cyh.wasm.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.j5tmcq1bfo.wasm.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.7hfaupc75z.wasm.gz
-C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\OmniMonitor.Client.652xxmhayh.pdb.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Console.0c362v5xxq.wasm.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Collections.r2s7n2sx3x.wasm.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Globalization.Calendars.8s8o2vqz82.wasm.gz
@@ -1390,7 +1385,6 @@ C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\De
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XmlSerializer.69wknkil2z.wasm.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Threading.Tasks.tbqaq378z6.wasm.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.Serialization.Xml.0jwn7dp9nd.wasm.gz
-C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\OmniMonitor.Client.ozdz1lssns.wasm.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Numerics.Vectors.3ulov9gswu.wasm.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Private.Uri.gccfg575xd.wasm.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Buffers.z32pttvtk4.wasm.gz
@@ -1419,7 +1413,6 @@ C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\De
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Net.Security.q4em7fcmos.wasm.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Threading.Tasks.Extensions.hs7o6v5tiq.wasm.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.ip3tel2wdp.wasm.gz
-C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\OmniMonitor.Shared.khtggdywge.pdb.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Net.hyl81vktsx.wasm.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Threading.Overlapped.w9h9po1nje.wasm.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.ComponentModel.Annotations.shw18la3r8.wasm.gz
@@ -1477,7 +1470,6 @@ C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\De
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Resources.Reader.ckle7drwww.wasm.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.Process.agxw6p2exh.wasm.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Numerics.3xrgeyndxe.wasm.gz
-C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\OmniMonitor.Shared.u9vd3lprh2.wasm.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Threading.myoimpdcs6.wasm.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\System.Text.Encodings.Web.g33dyw9sdz.wasm.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.fw6n3iiewj.wasm.gz
@@ -2123,13 +2115,6 @@ C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\De
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\compressed\v7gimzmt8x-tjcz0u77k5.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\compressed\tm66i67fbj-tptq2av103.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\compressed\ym7sm9ib0z-lfu7j35m59.gz
-C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\compressed\y1produ0an-u9vd3lprh2.gz
-C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\compressed\n41o88kyst-khtggdywge.gz
-C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\compressed\i9i1zq7gxg-ozdz1lssns.gz
-C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\compressed\ealolovgk2-652xxmhayh.gz
-C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\compressed\410mtlestf-jcabu7cdyr.gz
-C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\compressed\kd9ffhqpjh-2akcvinet1.gz
-C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\compressed\cdrepv0cxl-9e40nlbzpj.gz
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\staticwebassets.development.json
@@ -2139,3 +2124,18 @@ C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\De
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\refint\OmniMonitor.Client.dll
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\OmniMonitor.Client.pdb
 C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\ref\OmniMonitor.Client.dll
+C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\OmniMonitor.Client.ppxn3ekqba.pdb
+C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\OmniMonitor.Client.3f1gp7xkz6.wasm
+C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\OmniMonitor.Shared.ombuyy53nl.pdb
+C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\OmniMonitor.Shared.r5t07rkzwy.wasm
+C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\OmniMonitor.Client.ppxn3ekqba.pdb.gz
+C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\OmniMonitor.Client.3f1gp7xkz6.wasm.gz
+C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\OmniMonitor.Shared.ombuyy53nl.pdb.gz
+C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\bin\Debug\net9.0\wwwroot\_framework\OmniMonitor.Shared.r5t07rkzwy.wasm.gz
+C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\compressed\y1produ0an-r5t07rkzwy.gz
+C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\compressed\n41o88kyst-ombuyy53nl.gz
+C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\compressed\i9i1zq7gxg-3f1gp7xkz6.gz
+C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\compressed\ealolovgk2-ppxn3ekqba.gz
+C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\compressed\410mtlestf-hvbie13fvv.gz
+C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\compressed\kd9ffhqpjh-vkd23zgoql.gz
+C:\Users\jessi\OneDrive\Documentos\GitHub\pruebaDeploy\OmniMonitor\Client\obj\Debug\net9.0\compressed\cdrepv0cxl-dbaid02ht4.gz
