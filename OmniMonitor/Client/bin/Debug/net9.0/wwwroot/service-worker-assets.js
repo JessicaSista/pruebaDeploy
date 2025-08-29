@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "W5pkzyRb",
+  "version": "WF5t34p4",
   "assets": [
     {
       "hash": "sha256-GGhkJ8Ur+YSM7ORYB35MTux+r6IeGjNDQxN5M2/acog=",
@@ -134,20 +134,20 @@ self.assetsManifest = {
       "url": "_framework/MudBlazor.eiyoirc8xd.wasm"
     },
     {
-      "hash": "sha256-0U8QuJzFSjn6btqvz4Z1zzrFfk1VJuyd0kU+OEJ0hHI=",
-      "url": "_framework/OmniMonitor.Client.3f1gp7xkz6.wasm"
+      "hash": "sha256-0fvd7iMfqSLJj4Yw2BV0sXj/gFovBFBW/LpG8HaUSF8=",
+      "url": "_framework/OmniMonitor.Client.jjn8rguvkb.pdb"
     },
     {
-      "hash": "sha256-baXlhYq5ovlBl2ZLABK9PdYqrYbLgn7qk9VBJgAgrcc=",
-      "url": "_framework/OmniMonitor.Client.ppxn3ekqba.pdb"
+      "hash": "sha256-JDsIm6/pdTsIZu8vhvnZHpa3C2RRHtXWfYSSh6GhjVs=",
+      "url": "_framework/OmniMonitor.Client.sy4wuzlrzz.wasm"
     },
     {
-      "hash": "sha256-oC8oxlpdnd2W1yM47lCyp6ajGzAIuvFLNjANZIWgcKE=",
-      "url": "_framework/OmniMonitor.Shared.ombuyy53nl.pdb"
+      "hash": "sha256-QdaEVu9ibnAxksq9oMmxq8qIhRcCoFMfa/Dvb6aqVzg=",
+      "url": "_framework/OmniMonitor.Shared.1w0fg1j58y.wasm"
     },
     {
-      "hash": "sha256-YbnU/RERDFyUk0/7hxP0i6D3/atkZXiSpVUXUV6wZU4=",
-      "url": "_framework/OmniMonitor.Shared.r5t07rkzwy.wasm"
+      "hash": "sha256-2nY5gU7tfMW8FOCMxyLd+YaUJhajkqUl8SIdJ13ZSx0=",
+      "url": "_framework/OmniMonitor.Shared.2lf536r9na.pdb"
     },
     {
       "hash": "sha256-0Lv07foxIYuLe0vIpjIdTita0Lw8SBTOhLwzDplQHAg=",
@@ -798,7 +798,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.pe1q66fox7.wasm"
     },
     {
-      "hash": "sha256-nW7cTO24XwRZSM5+EUiBu7rEFpY9TMHMlwqt8SbkGho=",
+      "hash": "sha256-9ieZThH4YG3WNsMw6CwhtsMgyPA4umlgJyozIL7nYJU=",
       "url": "_framework/blazor.boot.json"
     },
     {

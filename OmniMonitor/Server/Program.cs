@@ -54,7 +54,7 @@ WebApplication app = builder.Build();
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<Context>();
-    db.Database.Migrate(); // Esto crea las tablas según las migraciones
+    db.Database.Migrate(); // Esto crea las tablas según las migraciones IMPORTANTE, SI QUERES QUE SE APLIQUE UN CAMBIO A LA DB REMOTA TENES QUE CREAR UNA MIGRACION Y SUBIRLA AL REPO
 }
 
 // Configure the HTTP request pipeline.

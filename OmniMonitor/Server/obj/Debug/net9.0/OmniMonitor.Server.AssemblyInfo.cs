@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OmniMonitor.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+455b0623db88a67ccdb717746711c404ec8cc404")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebef3397aec43f08080516aa9da6526e74034a9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("OmniMonitor.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OmniMonitor.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
