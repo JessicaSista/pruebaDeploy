@@ -51,6 +51,11 @@ builder.Services.AddSwaggerGen(options =>
 });
 
 WebApplication app = builder.Build();
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<Context>();
+    db.Database.Migrate(); // Esto crea las tablas según las migraciones
+}
 
 // Configure the HTTP request pipeline.
 if (configuration.GetValue<bool>("Development") || app.Environment.IsDevelopment())
